@@ -1,5 +1,5 @@
 {
-    "name": "helious/seat-eligibility",
+    "name": "busa-git/seat-eligibility",
     "type": "library",
     "keywords": [
         "helious",
@@ -13,7 +13,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "Helious\\SeatEligibility\\": "src/"
+            "busa-git\\SeatEligibility\\": "src/"
         }
     },
     "require": {
@@ -24,7 +24,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Helious\\SeatEligibility\\EligibilityServiceProvider"
+                "busa-git\\SeatEligibility\\EligibilityServiceProvider"
             ]
         }
     }
