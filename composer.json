@@ -13,7 +13,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "busa-git\\SeatEligibility\\": "src/"
+            "Helious\\SeatEligibility\\": "src/"
         }
     },
     "require": {
@@ -24,7 +24,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "busa-git\\SeatEligibility\\EligibilityServiceProvider"
+                "Helious\\SeatEligibility\\EligibilityServiceProvider"
             ]
         }
     }
